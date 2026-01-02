@@ -1,5 +1,10 @@
 {
   "maps": [
+   {
+      "name": "MT Mukjijat Obstacle",
+      "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_mukjijat_obstacle.json",
+      "locked": false
+    },
     {
       "name": "MT Age",
       "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_age.json",
