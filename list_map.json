@@ -1,6 +1,11 @@
 {
   "maps": [
     {
+      "name": "MT Sulawesi",
+      "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_sulawesi.json",
+      "locked": false
+    },
+    {
       "name": "MT Nightfall",
       "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_nightfall_update.json",
       "locked": false
