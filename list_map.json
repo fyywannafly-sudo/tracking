@@ -113,7 +113,7 @@
     {
       "name": "MT Ngebut",
       "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_ngebut.json",
-      "locked": false
+      "locked": true
     },
     {
       "name": "MT Outline (Mode Serius)",
