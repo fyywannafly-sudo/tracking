@@ -1,6 +1,11 @@
 {
   "maps": [
     {
+      "name": "MT Luna",
+      "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_luna.json",
+      "locked": false
+    },
+    {
       "name": "MT Sulawesi",
       "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_sulawesi.json",
       "locked": false
