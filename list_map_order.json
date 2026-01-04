@@ -1,0 +1,9 @@
+{
+  "maps": [
+    {
+      "name": "MT Granite Balap",
+      "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/order_mount_granite.json",
+      "locked": false
+    }
+  ]
+}
