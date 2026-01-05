@@ -1,6 +1,16 @@
 {
   "maps": [
     {
+      "name": "MT H2C",
+      "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_h2c.json",
+      "locked": false
+    },
+    {
+      "name": "MT H2C Wasd",
+      "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_h2c_wasd.json",
+      "locked": false
+    },
+    {
       "name": "MT Axis Wasd",
       "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_axis_wasd.json",
       "locked": false
