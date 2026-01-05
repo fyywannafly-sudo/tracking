@@ -1,6 +1,11 @@
 {
   "maps": [
     {
+      "name": "MT Axis Wasd",
+      "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_axis_wasd.json",
+      "locked": false
+    },
+    {
       "name": "MT Yume",
       "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_yume.json",
       "locked": false
