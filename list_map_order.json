@@ -9,6 +9,11 @@
       "name": "MT Axis Balap",
       "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/order_mount_axis.json",
       "locked": false
+    },
+    {
+      "name": "MT Yume Balap",
+      "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/order_mount_yume.json",
+      "locked": false
     }
   ]
 }
