@@ -1,6 +1,16 @@
 {
   "maps": [
     {
+      "name": "MT Yume",
+      "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_yume.json",
+      "locked": false
+    },
+    {
+      "name": "MT Yume Wasd",
+      "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_yume_wasd.json",
+      "locked": false
+    },
+    {
       "name": "MT Luna",
       "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_luna.json",
       "locked": false
