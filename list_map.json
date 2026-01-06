@@ -1,6 +1,11 @@
 {
   "maps": [
     {
+      "name": "MT Gemi CVIP",
+      "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_gemi_coil_vip.json",
+      "locked": false
+    },
+    {
       "name": "MT Daun",
       "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_daun.json",
       "locked": false
