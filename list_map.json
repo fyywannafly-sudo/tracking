@@ -233,7 +233,7 @@
     {
       "name": "MT Yahayuk CVIP",
       "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_yahayuk_coil_vip.json",
-      "locked": false
+      "locked": true
     },
     {
       "name": "MT Yahayuk R6",
