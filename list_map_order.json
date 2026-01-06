@@ -1,6 +1,11 @@
 {
   "maps": [
     {
+      "name": "MT Freestyle Wasd",
+      "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/order_mount_freestyle_wasd.json",
+      "locked": false
+    },
+    {
       "name": "MT Granite Balap",
       "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/order_mount_granite.json",
       "locked": false
